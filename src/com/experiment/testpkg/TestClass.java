@@ -11,7 +11,4 @@ public class TestClass {
 		return "sanjay";
 	}
 	
-	public int getAge(){
-		return 34;
-	}
 }
